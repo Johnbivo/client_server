@@ -219,20 +219,11 @@ Enable detailed logging by modifying the logger configuration in:
 
 ## 📄 License
 
-This project is developed for educational purposes as part of the Network Systems Development course.
+This project is developed for educational purposes.
 
 ## 👨‍💻 Author
 
-**Student Number**: 100723654  
-**Course**: Network Systems Development  
-**Institution**: University of Derby
-
-## 📞 Support
-
-For technical support or questions:
-- Check the logs for detailed error information
-- Review the implementation documentation
-- Contact the development team
+**Ioannis Bivolaris**
 
 ---
 
