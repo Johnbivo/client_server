@@ -19,7 +19,6 @@ A secure, multi-user task management application built with Python, featuring cl
 
 ### User Interface
 - **Modern GUI**: Built with CustomTkinter for a sleek, dark-themed interface
-- **Responsive Design**: Dynamic task display with scrollable interface
 - **Intuitive Navigation**: Easy-to-use buttons and forms
 - **Real-time Notifications**: Pop-up alerts for task updates
 
